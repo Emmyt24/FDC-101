@@ -10,6 +10,7 @@ contracts
 ├── customFeeds: contracts used for examples of custom feed contracts
 ├── fdcExample: contracts used in examples for all attestation types
 ├── proofOfReserves: contracts used in the Proof of reserves dApp example
+├── sportsScoreOracle: contracts for decentralized sports score oracle
 ├── GuessingGame.sol: simple guessing game contract using Flare's Secure Random
 ├── HelloWorld.sol: an example of a simple contract
 ├── PriceAnalytics.sol
